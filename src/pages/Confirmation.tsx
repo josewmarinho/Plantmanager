@@ -58,7 +58,7 @@ const styles = StyleSheet.create({
       textAlign: 'center',
       fontSize: 17,
       paddingVertical: 10,
-      colors: colors.heading,
+      color: colors.heading,
    },
    emoji: {
       fontSize: 78,
