@@ -81,7 +81,7 @@ Aferter read the QRCode with the app of [expo](https://play.google.com/store/app
 
 # :closed_book: License
 
-Released in 2020 :closed_book: License
+Released in 2021 :closed_book: License
 
 Made by [José Wellington](https://github.com/josewmarinho) 🚀.
 This project is under the [MIT license](./LICENSE).

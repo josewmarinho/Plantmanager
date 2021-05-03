@@ -81,7 +81,7 @@ Depois leia o QRCode com o app do [expo](https://play.google.com/store/apps/deta
 
 # :closed_book: License
 
-Lançado em 2020 :closed_book: Licencia
+Lançado em 2021 :closed_book: Licencia
 
 Feito por [José Wellington](https://github.com/josewmarinho) 🚀.
 Esse projeto esta sobre [MIT license](./LICENSE).
