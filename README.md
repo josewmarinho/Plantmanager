@@ -66,12 +66,15 @@ $ cd Plantmanager
 # Install the dependencies
 $ yarn install
 
+# Install the Expo
+$ Expo install
+
 # Make a copy of '.env.example' to '.env'
 # and set with YOUR environment variables.
 $ cp .env.example .env
 
 # Finally, run the api service in a development environment :)
-$ yarn start
+$ expo start
 
 # Well done, PlantManager is started!
 
